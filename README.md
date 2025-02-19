@@ -1,5 +1,6 @@
 # Music-genre-classification
 Classify music genre using Machine Learning Deep Learning
+Disclaimer: This project is just a final project of the subject "Python for Datascience" at my university, consist of 4 people.
 ## Introduction
 This project focuses on classifying music into different genres using Machine Learning (ML) and Deep Learning (DL) techniques. It utilizes audio feature extraction methods and various classification models to achieve accurate genre predictions.
 ## Features
